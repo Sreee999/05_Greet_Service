@@ -24,6 +24,8 @@ public class Application {
 		public String City2 = "Mumbai";
 
 		public String company2 = "Infosys";
+		
+		public boolean status2 = true ; // 28 
 
 		SpringApplication.run(Application.class, args);
 	}
