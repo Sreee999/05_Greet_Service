@@ -12,6 +12,7 @@ public class Application {
 
 	public static void main(String[] args) {
 
+		public int eid = 101; 
 		
 		public double sal = 99999.99;
 
@@ -26,6 +27,7 @@ public class Application {
 		public String company2 = "Infosys";
 
 		public boolean status = false; // 28 
+		
 
 		SpringApplication.run(Application.class, args);
 	}
