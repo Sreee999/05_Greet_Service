@@ -25,6 +25,8 @@ public class Application {
 
 		public String company2 = "Infosys";
 
+		public boolean status = false; // 28 
+
 		SpringApplication.run(Application.class, args);
 	}
 
