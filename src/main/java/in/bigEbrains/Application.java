@@ -11,8 +11,12 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 public class Application {
 
 	public static void main(String[] args) {
+
 		
 		public double sal = 99999.99;
+
+		public String name = "SIVA";
+
 		SpringApplication.run(Application.class, args);
 	}
 
