@@ -16,6 +16,8 @@ public class Application {
 		public double sal = 99999.99;
 
 		public String name = "SIVA";
+		
+		public String city = "PUNE";
 
 		SpringApplication.run(Application.class, args);
 	}
