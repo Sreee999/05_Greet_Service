@@ -19,6 +19,8 @@ public class Application {
 		
 		public String city = "PUNE";
 
+		public String company = "IBM";
+
 		SpringApplication.run(Application.class, args);
 	}
 
