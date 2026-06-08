@@ -23,6 +23,8 @@ public class Application {
 		
 		public String City2 = "Mumbai";
 
+		public String company2 = "Infosys";
+
 		SpringApplication.run(Application.class, args);
 	}
 
