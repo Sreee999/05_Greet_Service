@@ -34,7 +34,7 @@ public class Application {
 
 		public boolean status = false; // 28 
 
-		public boolean marks = 99.89; 
+		public boolean marks = 99.89; // did change by ME
 		
 
 		SpringApplication.run(Application.class, args);
