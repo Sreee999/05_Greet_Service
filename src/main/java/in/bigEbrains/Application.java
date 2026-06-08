@@ -37,5 +37,10 @@ public class Application {
 
 		SpringApplication.run(Application.class, args);
 	}
+	
+	public void showName(String name ) { // Did changes by Me
+		
+		System.out.println("Welocme: " + name);
+	}
 
 }
