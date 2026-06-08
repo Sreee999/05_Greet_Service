@@ -27,6 +27,8 @@ public class Application {
 		
 		public boolean status2 = true ; // 28 
 
+		public boolean status = false; // 28 
+
 		SpringApplication.run(Application.class, args);
 	}
 
