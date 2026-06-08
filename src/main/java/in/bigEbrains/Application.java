@@ -38,4 +38,8 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 	}
 
+	public String dispHello(String name) { // John Did changes 
+		 return name; 
+	}		
+
 }
