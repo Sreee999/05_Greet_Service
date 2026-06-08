@@ -20,6 +20,8 @@ public class Application {
 		public String city = "PUNE";
 
 		public String company = "IBM";
+		
+		public String City2 = "Mumbai";
 
 		SpringApplication.run(Application.class, args);
 	}
