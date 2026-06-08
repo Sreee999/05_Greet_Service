@@ -9,4 +9,6 @@ public interface WelcomeFeignClient {
 	@GetMapping("/welcome")
 	public String getWelcomeMSG() ;
 	
+	@PostMapping("/welpost")
+	
 }
