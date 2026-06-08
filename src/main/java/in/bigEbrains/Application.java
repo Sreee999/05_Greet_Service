@@ -33,6 +33,8 @@ public class Application {
 		public boolean status2 = true ; // 28 
 
 		public boolean status = false; // 28 
+
+		public boolean marks = 99.89; 
 		
 
 		SpringApplication.run(Application.class, args);
