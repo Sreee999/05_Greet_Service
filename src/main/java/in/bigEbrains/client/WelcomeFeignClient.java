@@ -11,4 +11,6 @@ public interface WelcomeFeignClient {
 	
 	@PostMapping("/welpost")
 	
+	@PutMapping()
+	
 }

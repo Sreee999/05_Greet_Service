@@ -17,7 +17,7 @@ public class GreetRestController {
 	@GetMapping("/greet")
 	public String getGreetMsg() {
 		
-		// int num = 10; 
+	      int num = 10; 
 		
 		List nums = List.of(1,2,3,4,5);
 		
