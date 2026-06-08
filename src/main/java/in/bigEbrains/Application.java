@@ -43,4 +43,8 @@ public class Application {
 		System.out.println("Welocme: " + name);
 	}
 
+	public String dispHello(String name) { // John Did changes 
+		 return name; 
+	}		
+
 }
