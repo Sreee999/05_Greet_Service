@@ -27,5 +27,11 @@ public class GreetRestController {
 		
 		return greetMsg + welcomeMsg + nums; 
 	}
+	// JIRA-150 STory
+	public void m2() {
+		  
+		  // Writting some logic 
+		 
+	}
 
 }
