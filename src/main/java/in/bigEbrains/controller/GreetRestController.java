@@ -28,4 +28,17 @@ public class GreetRestController {
 		return greetMsg + welcomeMsg + nums; 
 	}
 
+	// JIRA-150 STory
+	public void m2() {
+		  
+		  // Writting some logic 
+		 
+	
+	// JIRA-101 Task 
+	public void m1() {
+		 int empId = 101;
+		 String name = "SREE";
+		 // Some Logic 
+	}
+
 }
