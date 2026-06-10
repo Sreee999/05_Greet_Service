@@ -38,8 +38,6 @@ public class GreetRestController {
 	public void m1() {
 		 int empId = 101;
 		 String name = "SREE";
-		 String city = "Bangalore"; 
-		 
 		 // Some Logic 
 	}
 
